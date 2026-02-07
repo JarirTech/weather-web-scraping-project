@@ -1,0 +1,142 @@
+City,Country,Date,Weather Condition,Temperature in F
+Accra,Ghana,Mon 09:36 PM,Passing clouds. Warm.,84
+Dublin,Ireland,Mon 09:36 PM,Drizzle. Mostly cloudy. Quite cool.,45
+Nairobi,Kenya,Mon 12:36 AM,Passing clouds. Mild.,72
+Addis Ababa,Ethiopia,Mon 12:36 AM,Passing clouds. Mild.,64
+Edmonton,Canada,Mon 02:36 PM,Partly sunny. Chilly.,37
+Nassau,Bahamas,Mon 04:36 PM,Passing clouds. Mild.,70
+Adelaide,Australia,Mon 08:06 AM,Cool.,68
+Frankfurt,Germany,Mon 10:36 PM,Passing clouds. Chilly.,39
+New Delhi,India,Mon 03:06 AM,Fog. Cool.,57
+Algiers,Algeria,Mon 10:36 PM,Passing clouds. Cool.,61
+Guatemala City,Guatemala,Mon 03:36 PM,Sunny. Mild.,70
+New Orleans,Usa,Mon 03:36 PM,Sunny. Refreshingly cool.,59
+Almaty,Kazakstan,Mon 02:36 AM,Light snow. Overcast. Chilly.,27
+Halifax,Canada,Mon 05:36 PM,Light snow. Partly sunny. Chilly.,27
+New York,Usa,Mon 04:36 PM,Overcast. Cold.,11
+Amman,Jordan,Mon 12:36 AM,Clear. Refreshingly cool.,59
+Hanoi,Vietnam,Mon 04:36 AM,Mostly cloudy. Mild.,66
+Oslo,Norway,Mon 10:36 PM,Passing clouds. Cold.,22
+Amsterdam,Netherlands,Mon 10:36 PM,Passing clouds. Cool.,46
+Harare,Zimbabwe,Mon 11:36 PM,Overcast. Mild.,67
+Ottawa,Canada,Mon 04:36 PM,Partly sunny. Frigid.,0
+Anadyr,Russia,Mon 09:36 AM,Light snow. Overcast. Cold.,12
+Havana,Cuba,Mon 04:36 PM,Scattered clouds. Mild.,75
+Paris,France,Mon 10:36 PM,Mostly cloudy. Cool.,46
+Anchorage,Usa,Mon 12:36 PM,Overcast. Chilly.,26
+Helsinki,Finland,Mon 11:36 PM,Light snow. Passing clouds. Cold.,14
+Perth,Australia,Mon 05:36 AM,Clear. Mild.,68
+Ankara,Turkey,Mon 12:36 AM,Sprinkles. Passing clouds. Quite cool.,45
+Hong Kong,Hong Kong,Mon 05:36 AM,Passing clouds. Refreshingly cool.,61
+Philadelphia,Usa,Mon 04:36 PM,Passing clouds. Cold.,15
+Antananarivo,Madagascar,Mon 12:36 AM,Passing clouds. Mild.,68
+Honolulu,Usa,Mon 11:36 AM,Broken clouds. Mild.,70
+Phoenix,Usa,Mon 02:36 PM,Passing clouds. Pleasantly warm.,81
+Asuncion,Paraguay,Mon 06:36 PM,Scattered clouds. Extremely hot.,97
+Houston,Usa,Mon 03:36 PM,Sunny. Mild.,72
+Prague,Czech Republic,Mon 10:36 PM,Light rain. Mostly cloudy. Chilly.,34
+Athens,Greece,Mon 11:36 PM,Mild.,64
+Indianapolis,Usa,Mon 04:36 PM,Scattered clouds. Chilly.,25
+Reykjavik,Iceland,Mon 09:36 PM,Clear. Chilly.,34
+Atlanta,Usa,Mon 04:36 PM,Sunny. Cool.,52
+Islamabad,Pakistan,Mon 02:36 AM,Clear. Cool.,54
+Rio De Janeiro,Brazil,Mon 06:36 PM,Thunderstorms. Mostly cloudy. Warm.,79
+Auckland,New Zealand,Mon 10:36 AM,Light rain. Broken clouds. Mild.,70
+Istanbul,Turkey,Mon 12:36 AM,Partly cloudy. Cool.,50
+Riyadh,Saudi Arabia,Mon 12:36 AM,Passing clouds. Mild.,68
+Baghdad,Iraq,Mon 12:36 AM,Overcast. Cool.,59
+Jakarta,Indonesia,Mon 04:36 AM,Passing clouds. Mild.,76
+Rome,Italy,Mon 10:36 PM,Passing clouds. Cool.,52
+Bangkok,Thailand,Mon 04:36 AM,Passing clouds. Warm.,81
+Jerusalem,Israel,Mon 11:36 PM,Cool.,59
+Salt Lake City,Usa,Mon 02:36 PM,Passing clouds. Refreshingly cool.,59
+Barcelona,Spain,Mon 10:36 PM,Passing clouds. Cool.,54
+Johannesburg,South Africa,Mon 11:36 PM,Haze. Mild.,70
+San Francisco,Usa,Mon 01:36 PM,Partly sunny. Cool.,56
+Beijing,China,Mon 05:36 AM,Cold.,21
+Karachi,Pakistan,Mon 02:36 AM,Clear. Cool.,61
+San Juan,Puerto Rico,Mon 05:36 PM,Scattered clouds. Warm.,78
+Beirut,Lebanon,Mon 11:36 PM,Passing clouds. Mild.,66
+Kathmandu,Nepal,Mon 03:21 AM,Passing clouds. Cool.,54
+San Salvador,El Salvador,Mon 03:36 PM,Passing clouds. Pleasantly warm.,82
+Belgrade,Serbia,Mon 10:36 PM,Fog. Cool.,49
+Kingston,Jamaica,Mon 04:36 PM,Warm.,78
+Santiago,Chile,Mon 06:36 PM,Sunny. Hot.,90
+Bengaluru,India,Mon 03:06 AM,Fog. Mild.,64
+Kinshasa,Congo Demrep,Mon 10:36 PM,Clear. Warm.,81
+Santo Domingo,Dominican Republic,Mon 05:36 PM,Partly sunny. Warm.,83
+Berlin,Germany,Mon 10:36 PM,Fog. Chilly.,34
+Kiritimati,Kiribati,Mon 11:36 AM,Passing clouds. Warm.,84
+São Paulo,Brazil,Mon 06:36 PM,Light rain. Mostly cloudy. Mild.,72
+Bogota,Colombia,Mon 04:36 PM,Drizzle. Partly sunny. Mild.,63
+Kolkata,India,Mon 03:06 AM,Haze. Mild.,63
+Seattle,Usa,Mon 01:36 PM,Light rain. Fog. Cool.,50
+Boston,Usa,Mon 04:36 PM,Light snow. More clouds than sun. Cold.,22
+Kuala Lumpur,Malaysia,Mon 05:36 AM,Passing clouds. Warm.,79
+Seoul,South Korea,Mon 06:36 AM,Clear. Cold.,10
+Brasilia,Brazil,Mon 06:36 PM,Scattered clouds. Warm.,77
+Kuwait City,Kuwait,Mon 12:36 AM,Fog. Mild.,64
+Shanghai,China,Mon 05:36 AM,Clear. Chilly.,30
+Brisbane,Australia,Mon 07:36 AM,Cool.,69
+Kyiv,Ukraine,Mon 11:36 PM,Light snow. Overcast. Cold.,22
+Singapore,Singapore,Mon 05:36 AM,Passing clouds. Mild.,75
+Brussels,Belgium,Mon 10:36 PM,Clear. Cool.,46
+La Paz,Bolivia,Mon 05:36 PM,Thundershowers. Overcast. Cool.,54
+Sofia,Bulgaria,Mon 11:36 PM,Passing clouds. Quite cool.,42
+Bucharest,Romania,Mon 11:36 PM,Fog. Quite cool.,41
+Lagos,Nigeria,Mon 10:36 PM,Thunderstorms. Passing clouds. Warm.,82
+St. John'S,Canada,Mon 06:06 PM,Chilly.,28
+Budapest,Hungary,Mon 10:36 PM,Clear. Chilly.,36
+Lahore,Pakistan,Mon 02:36 AM,Clear. Cool.,55
+Stockholm,Sweden,Mon 10:36 PM,Overcast. Cold.,23
+Buenos Aires,Argentina,Mon 06:36 PM,Passing clouds. Warm.,84
+Las Vegas,Usa,Mon 01:36 PM,Passing clouds. Mild.,63
+Suva,Fiji,Mon 09:36 AM,Overcast. Mild.,74
+Cairo,Egypt,Mon 11:36 PM,Haze. Mild.,68
+Lima,Peru,Mon 04:36 PM,Passing clouds. Warm.,78
+Sydney,Australia,Mon 08:36 AM,Light rain. Overcast. Mild.,75
+Calgary,Canada,Mon 02:36 PM,Partly sunny. Refreshingly cool.,57
+Lisbon,Portugal,Mon 09:36 PM,Passing clouds. Cool.,54
+Taipei,Taiwan,Mon 05:36 AM,Partly cloudy. Cool.,54
+Canberra,Australia,Mon 08:36 AM,Rain. Mostly cloudy. Mild.,63
+London,Uk,Mon 09:36 PM,Passing clouds. Cool.,48
+Tallinn,Estonia,Mon 11:36 PM,Low clouds. Cold.,16
+Cape Town,South Africa,Mon 11:36 PM,Passing clouds. Mild.,68
+Los Angeles,Usa,Mon 01:36 PM,Sunny. Mild.,71
+Tashkent,Uzbekistan,Mon 02:36 AM,Clear. Chilly.,36
+Caracas,Venezuela,Mon 05:36 PM,Broken clouds. Warm.,81
+Madrid,Spain,Mon 10:36 PM,Passing clouds. Quite cool.,41
+Tegucigalpa,Honduras,Mon 03:36 PM,Passing clouds. Mild.,72
+Casablanca,Morocco,Mon 10:36 PM,Partly cloudy. Mild.,63
+Managua,Nicaragua,Mon 03:36 PM,Passing clouds. Pleasantly warm.,88
+Tehran,Iran,Mon 01:06 AM,Fog. Quite cool.,41
+Chicago,Usa,Mon 03:36 PM,Partly sunny. Chilly.,25
+Manila,Philippines,Mon 05:36 AM,Overcast. Warm.,78
+Tokyo,Japan,Mon 06:36 AM,Snow flurries. Overcast. Chilly.,30
+Copenhagen,Denmark,Mon 10:36 PM,Overcast. Chilly.,32
+Melbourne,Australia,Mon 08:36 AM,Sunny. Mild.,73
+Toronto,Canada,Mon 04:36 PM,Passing clouds. Frigid.,5
+Dallas,Usa,Mon 03:36 PM,Scattered clouds. Mild.,71
+Mexico City,Mexico,Mon 03:36 PM,Passing clouds. Mild.,73
+Vancouver,Canada,Mon 01:36 PM,Light rain. Fog. Cool.,50
+Dar Es Salaam,Tanzania,Mon 12:36 AM,Passing clouds. Mild.,75
+Miami,Usa,Mon 04:36 PM,Scattered clouds. Pleasantly warm.,79
+Vienna,Austria,Mon 10:36 PM,Passing clouds. Quite cool.,41
+Darwin,Australia,Mon 07:06 AM,Clear. Warm.,79
+Minneapolis,Usa,Mon 03:36 PM,Partly sunny. Cold.,21
+Warsaw,Poland,Mon 10:36 PM,Ice fog. Chilly.,32
+Denver,Usa,Mon 02:36 PM,Partly sunny. Mild.,63
+Minsk,Belarus,Mon 12:36 AM,Snow showers. Passing clouds. Cold.,21
+Washington Dc,Usa,Mon 04:36 PM,Passing clouds. Cold.,21
+Detroit,Usa,Mon 04:36 PM,Scattered clouds. Cold.,19
+Montevideo,Uruguay,Mon 06:36 PM,Passing clouds. Warm.,79
+Winnipeg,Canada,Mon 03:36 PM,Cold.,21
+Dhaka,Bangladesh,Mon 03:36 AM,Clear. Mild.,67
+Montréal,Canada,Mon 04:36 PM,Light snow. More clouds than sun. Frigid.,3
+Yangon,Myanmar,Mon 04:06 AM,Passing clouds. Mild.,73
+Doha,Qatar,Mon 12:36 AM,Clear. Mild.,70
+Moscow,Russia,Mon 12:36 AM,Overcast. Cold.,15
+Zagreb,Croatia,Mon 10:36 PM,Clear. Quite cool.,45
+Dubai,United Arab Emirates,Mon 01:36 AM,Clear. Mild.,72
+Mumbai,India,Mon 03:06 AM,Haze. Warm.,81
+Zürich,Switzerland,Mon 10:36 PM,Chilly.,36
