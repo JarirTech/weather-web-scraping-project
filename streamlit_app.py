@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 
-st.title(" World Weather Temeratures Dashboard")
+st.title(" World Weather Temperatures Dashboard")
 st.write(
     """
     This dashboard explores current weather temperatures across global cities.
